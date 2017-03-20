@@ -1,0 +1,44 @@
+P
+{
+	Border:solid blue;
+	margin: 5% 10% 5% 10%;	
+	background:silver;
+	font-family:monospace;
+	line-height:1.5;
+}/*p*/
+
+Body
+{
+	border:solid purple;
+	background:pink;
+	background-image:url("http://www.wzzm13.com/img/resize/content.wzzm13.com/photo/2016/09/07/download_1473246443751_5950622_ver1.0.jpg?preset=534-401");
+	background-color: #cccccc;
+	
+
+}/*body*/
+
+h2
+{
+	margin: 5% 5% 5% 5%;
+	font-family: monospace;
+	color: red;
+	background-color: lightblue;
+	border-left:double yellow;
+	border:double white;
+	
+}/*h2*/
+
+h1
+{
+	margin: 5% 5% 5% 5%;
+	color: white;
+	
+}/*h1*/
+
+h4
+{
+	color: white;
+	background: black;
+}
+
+
