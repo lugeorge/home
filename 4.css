@@ -1,0 +1,38 @@
+Body
+{
+	Background:silver;
+	font-family:comic sans;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/564x/d3/7c/95/d37c95fa337e60c56f5d62608a8aeae9.jpg");
+	background-color: #cccccc;
+}/*body*/
+
+P
+{
+	margin:5% 10% 5% 10%;
+	border:double green;
+	line-height: 1.5;
+	background: white;
+	
+}/*p*/
+
+h1
+{
+	color:blue;
+	background: white;
+	border: lightblue;
+}/*h1*/
+
+h2
+{
+	background:indigo;
+	color:white;
+	border: double white;
+}/*h2*/
+
+h4
+{
+	background:white;
+}
+	
+
+
